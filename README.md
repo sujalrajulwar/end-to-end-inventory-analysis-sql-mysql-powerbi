@@ -120,4 +120,4 @@ End-to-End-Inventory-Analysis/
 ## 📌 Future Improvements
 - Implement scheduled refresh using Power BI Service
 - Integrate real-time streaming data pipeline
-- Enhance dashboard with forecasting visuals
+- Enhance dashboard with forecasting visuals.
